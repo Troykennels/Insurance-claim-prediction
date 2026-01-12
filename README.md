@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Insurance Claim Prediction
 
 ## Project Overview
@@ -23,3 +24,7 @@ Gradient Boosting and tuned Random Forest models achieved the best performance b
 
 ## Tools
 Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+=======
+# Insurance-claim-prediction
+prediction insurance claim occurrence using machine learning
+>>>>>>> 2cc7492cfb8cfa88d43f82677130d1377924e51f
